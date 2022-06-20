@@ -1,6 +1,0 @@
-namaemix@gmail.com
-GS0103aj.
-https://flutterflow.io/
-Iniciar sesion con google
-Añadir la cuenta anteriormente facilitada
-Una vez dentro pulsar el boton morado run
