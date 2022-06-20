@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+[class*=col-]{
+    width: 100%;
+    padding: 2%;
+}
+ 
+.col-4{
+    width: 100%;
+}
+
+td{
+    background-color: #ecf0f1;
+}
+tfoot{
+    background-color: rgb(180, 129, 34);
+    td{
+        background-color: orange;
+    }
+}
+
+  
+
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+  }

@@ -1,0 +1,70 @@
+/*footer*/
+
+
+.footer-menu{
+    background-color: #2E323A;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 25px;
+    .titulo-footer{
+        width: 20%;
+        p{
+            font-family: SquadaOne-Regular;
+            font-size: 38px;
+            color: white;
+            text-align: right;
+        }
+        a{
+            text-decoration:none;
+        }
+    }
+    .copy-footer{
+        width: 60%;
+        p{
+            font-family: CarterOne-Regular;
+            font-size: 18px;
+            color: white;
+            text-align: center;
+        }
+
+    }
+    .pago-footer{
+        width: 20%;
+        justify-content: center;
+        margin-right: 40px;
+        padding-bottom: 20px;
+        img{
+            width: 100%;
+            max-width: 100%;
+            height: 50px;
+        }
+        
+
+    }
+}
+
+@media (min-width: 576px) {
+
+    
+   
+  }
+  
+  @media (min-width: 768px) {
+   
+    
+   
+     
+  }
+  
+  @media (min-width: 992px) {
+  
+   
+       
+    
+  }
+  
+  @media (min-width: 1200px) {
+   
+  }
